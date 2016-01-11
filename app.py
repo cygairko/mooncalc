@@ -3,7 +3,7 @@ from math import radians as rad,degrees as deg
 import re
 
 from bottle import Bottle, route, run
-import pyephem
+import ephem
 
 import json
 
